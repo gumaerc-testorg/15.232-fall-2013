@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 5b0c885f-3fac-fee9-cfd6-aca753d845eb
 title: Case Studies and Problem-based Learning
 uid: c8bbcf10-8403-0014-56fc-627f44af763b

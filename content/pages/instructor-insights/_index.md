@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 5b0c885f-3fac-fee9-cfd6-aca753d845eb
 ---
@@ -54,20 +56,6 @@ Graduate elective
 ### Offered
 
 First half of every fall semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![View of the classroom toward the chalkboards in the front.]({{< resource_file e420b24e-0445-2d22-ae9d-2fcc91595525 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    Tiered seating, sliding chalkboards, LCD video and overhead projectors, multiple screens.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
