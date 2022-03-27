@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c1497bcd-a2f0-d686-0f61-27a7bceffff7
 resourcetype: Document
 title: 'Class 9: Sustainability and scale'
 uid: e28a6d72-29b3-6d49-d9c4-e2356b9323a0

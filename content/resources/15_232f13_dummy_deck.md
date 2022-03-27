@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9f398e8a-2392-43d7-ea09-4c39d16fd3c2
 resourcetype: Other
 title: 15_232F13_Dummy_Deck.pptx
 uid: 17f486b3-edd7-225e-e17f-0541c81d7bee

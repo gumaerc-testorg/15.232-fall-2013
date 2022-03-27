@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Teaching Systems Thinking and Value Chains
 parent_type: CourseSection
+parent_uid: 3296b023-4342-68b4-2cad-c8eab5a26f9f
 resourcetype: Image
 title: teaching_shining-hope9.jpg
 uid: 6aaa1524-8f10-2bdb-89c0-957257c11879

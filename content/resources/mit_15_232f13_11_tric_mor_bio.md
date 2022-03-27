@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 23872b06-c554-0fea-3a9f-f1a4d06c9209
 resourcetype: Document
 title: Tricia Morente biography
 uid: f58da516-31ff-a92b-7dda-bbbb979ae8dc

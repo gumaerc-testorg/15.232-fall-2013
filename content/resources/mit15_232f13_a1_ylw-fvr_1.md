@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Team Projects
 parent_type: CourseSection
+parent_uid: f2b0327e-f44d-38d8-da37-1fd506456195
 resourcetype: Document
 title: 15.232 Fall 2013 Yellow Fever and its impact on Global Health
 uid: 10e562c9-859f-f27e-07cf-d98193f8e990

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c1497bcd-a2f0-d686-0f61-27a7bceffff7
 resourcetype: Document
 title: Blank care delivery value chain
 uid: e4559231-e1d2-c710-c097-97be002c5219

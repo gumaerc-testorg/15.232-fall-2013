@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c1497bcd-a2f0-d686-0f61-27a7bceffff7
 resourcetype: Other
 title: 15_232F13_5_blank_ca_de_va.pptx
 uid: 43285169-2fae-e984-5adb-e6e86ad26181

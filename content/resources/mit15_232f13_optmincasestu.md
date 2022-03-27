@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Mini Case Portfolio
 parent_type: CourseSection
+parent_uid: e53d3d56-ab3c-0bd5-9819-a1795522c836
 resourcetype: Document
 title: Mini Case Study options
 uid: 7ab9edf9-07f1-7520-69b9-81643b1af999

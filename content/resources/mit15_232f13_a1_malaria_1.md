@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Team Projects
 parent_type: CourseSection
+parent_uid: f2b0327e-f44d-38d8-da37-1fd506456195
 resourcetype: Document
 title: '15.232 Fall 2013 Malaria: An Overview'
 uid: 6e73a59a-239b-0cd8-6b29-cc2a7a65bd6f

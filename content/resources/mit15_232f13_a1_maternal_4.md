@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Individual Managerial Briefing
 parent_type: CourseSection
+parent_uid: 9adde567-4a08-9351-827b-c51d0bf52b22
 resourcetype: Document
 title: '15.232 Fall 2013 Opportunities to Improve Maternal and Neonatal Health Care:
   Assignment 1'

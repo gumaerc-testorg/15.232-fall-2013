@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Background and Inspiration for the Class
 parent_type: CourseSection
+parent_uid: e6e427dc-aca8-8e23-0c62-3f20a1589c66
 resourcetype: Image
 title: background_shining-hope1.jpg
 uid: e37d1c74-e25c-bd61-a903-8ca091085c9f
