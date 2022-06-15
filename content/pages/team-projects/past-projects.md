@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section lists prior projects in the class, and where possible links
+  to information and student deliverables posted on Dr. Sastry's Groundwork Initiative
+  for Global Health at MIT Sloan website.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

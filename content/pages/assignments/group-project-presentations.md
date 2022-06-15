@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides guidelines and instructions for a group project
+  presentation.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -29,7 +31,7 @@ After the presentation, the Board will ask you a few questions and decide whethe
 *   Manage your time! Helpfully, a chime will go off at 11 minutes.
 *   Submit the version you would like to show in class by 5 pm the previous evening.
 *   Do not focus on why your team is qualified for the leadership position, as is already established.
-*   Refer to our ["dummy deck" ppt template (PPT)]({{< baseurl >}}/resources/15_232f13_dummy_deck) for what to cover, but feel free to any layout and presentation method that works for you. A well-designed graphic to show the organization’s operational model is an excellent idea.
+*   Refer to our {{% resource_link 17f486b3-edd7-225e-e17f-0541c81d7bee "\"dummy deck\" ppt template (PPT)" %}} for what to cover, but feel free to any layout and presentation method that works for you. A well-designed graphic to show the organization’s operational model is an excellent idea.
 *   Focus your talk on a small number of specific points—_things you appreciate about the program or organization; things you would change_—and bring in the background data, framing, and organizational description needed to make your points and _provide evidence for your assertions_. Do not try to present everything about the organization.
 *   Use _concepts or examples from class_ to aid your analysis, where relevant.
 *   The audience, which includes the students not presenting and invited guests, will be your board of directors.

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Comments from the course instructor on teaching a variety of cases, and
+  creating opportunities for problem based learning.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

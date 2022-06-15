@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Comments from the course instructor on structuring individual and team
+  assignments, and setting expectations.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -15,7 +17,7 @@ Individual Assignments
 
 {{< quote "I tried to think through my class design, so that in the early sessions you set the stage for behaviors that then emerge naturally." " " >}}
 
-I structured the assignments in this class carefully. The [managerial briefing assignment]({{< baseurl >}}/pages/assignments/individual-managerial-briefing) specifically lays out what to write about and what the main headings should be. For malaria, we didn't want the students to study the whole life cycle of mosquitoes. Instead, we wanted them to know the big issues involving malaria. Students could talk about mosquitoes, of course, but more important was the burden of the disease: how many people have it, how it's seasonal, who gets affected, what the consequences are, what the morbidity is, and whether the disease affects a particular demographic, such as children.
+I structured the assignments in this class carefully. The {{% resource_link 9adde567-4a08-9351-827b-c51d0bf52b22 "managerial briefing assignment" %}} specifically lays out what to write about and what the main headings should be. For malaria, we didn't want the students to study the whole life cycle of mosquitoes. Instead, we wanted them to know the big issues involving malaria. Students could talk about mosquitoes, of course, but more important was the burden of the disease: how many people have it, how it's seasonal, who gets affected, what the consequences are, what the morbidity is, and whether the disease affects a particular demographic, such as children.
 
 I asked students to imagine that they worked at a company that was about to enter a particular domain. What does the company need to know in order to make management decisions that might be related to entering that field? How much money should be spent? What is the size of the market? What are the different options for reducing the burden of disease?
 
@@ -32,7 +34,7 @@ Team Assignments
 
 ### Iterations and Feedback
 
-The way I designed the [team project assignment]({{< baseurl >}}/pages/assignments/mini-case-portfolio) could be quite irritating for students because they had three chances to iterate on it. I have learned that students often are so busy that they work on an assignment the night before it’s due and miss the chance to make it better.
+The way I designed the {{% resource_link e53d3d56-ab3c-0bd5-9819-a1795522c836 "team project assignment" %}} could be quite irritating for students because they had three chances to iterate on it. I have learned that students often are so busy that they work on an assignment the night before it’s due and miss the chance to make it better.
 
 For anything good, it has to be done once and then made better. A great way to do this is to get feedback on it and iterate. Many MIT courses don't give students a chance to iterate or tap into faculty and peer feedback. Or you get feedback after the grade is in, so there's no recourse. I feel strongly that multifaceted feedback is good for people because it helps them calibrate, and get over themselves. Somebody might give you something harsh, but another person will say something good, so students gain perspective and learn to deal with negative criticism.
 
@@ -42,7 +44,7 @@ Requiring three iterations of the slide deck forced students to turn in a draft 
 
 One good thing about having deliverables due early, even in draft form, is that it gets students thinking in a more integrated way earlier in the course, which is a good learning outcome. They realize that, to create the draft, they need to tap into many different areas, and think about how these pieces fit together.
 
-To offset this a little bit, I structure the [group project presentation]({{< baseurl >}}/pages/assignments/group-project-presentations) quite carefully. I learned early on that when I gave written assignments students would sometimes skip sections. It was painful to have them add to or develop their presentation if I wanted them to address that issue at the end. So I created a blank version of the presentation in the form of a [dummy PowerPoint deck (PPT)]({{< baseurl >}}/resources/15_232f13_dummy_deck), a very structured assignment with place holders for each of the major concepts.
+To offset this a little bit, I structure the {{% resource_link 3b4ca32b-96a6-bb2a-3c9b-97075fe806ef "group project presentation" %}} quite carefully. I learned early on that when I gave written assignments students would sometimes skip sections. It was painful to have them add to or develop their presentation if I wanted them to address that issue at the end. So I created a blank version of the presentation in the form of a {{% resource_link 17f486b3-edd7-225e-e17f-0541c81d7bee "dummy PowerPoint deck (PPT)" %}}, a very structured assignment with place holders for each of the major concepts.
 
 I gave them this dummy deck along with at least six past examples of student projects, and then they were free to be creative. Students didn't have to follow the guidelines per se, but they basically had our rubric laid out to guide them, and it made grading easier. This was helpful for people who needed a lot of structure, and gave those who wanted more freedom a base off of which to work.
 
