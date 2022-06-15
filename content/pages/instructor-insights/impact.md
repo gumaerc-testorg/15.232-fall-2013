@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Comments from the course instructor on predicting outcomes, generating
+  content that is useful to the broader world, and collaborating and making connections.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -9,13 +11,11 @@ parent_uid: 5b0c885f-3fac-fee9-cfd6-aca753d845eb
 title: Impact
 uid: 771d2998-6349-db27-afe7-73ca9183a26e
 ---
+{{< resource 5e97872f-59ce-d603-18bb-27882b970ca1 >}}
 
-![A team of doctors wearing scrubs and masks operate on a small child.]({{< resource_file 5e97872f-59ce-d603-18bb-27882b970ca1 >}})  
+Smile Train's cleft lip and palate teaching camp in Rajsthan Seva Sadan Hospital. (Photo courtesy of [Sadasiv Swain](https://www.flickr.com/photos/sswain_1999/9516878236) via Flickr. License: CC-BY.)
 
-Smile Train's Cleft lip and palate teaching camp in Rajsthan Seva Sadan Hospital. (Photo courtesy of [Sadasiv Swain](https://www.flickr.com/photos/sswain_1999/9516878236) via Flickr. License: CC-BY.)
-
-Predicting Outcomes
--------------------
+## Predicting Outcomes
 
 In 2010, one of the organizations we looked at from the outside was Smile Train, which does cleft pallet surgery and cleft lip surgery and repair. [The students made a prediction](http://globalhealth.mit.edu/smiletrain/) based on their analysis that Smile Train would run out of clefts to repair, and they were correct.
 
@@ -23,21 +23,19 @@ So the CEO of Smile Train, Brian Mulaney, saw the analysis and contacted me. He 
 
 It made me realize, though we certainly have organizations that have thanked us for the analysis, to be able to predict is pretty exciting. I've also used some of the student analyses as resources in other classes, like _GlobalHealth Lab_.
 
-Generating Content that Is Useful to the Broader World
-------------------------------------------------------
+## Generating Content that Is Useful to the Broader World
 
 I love the idea of a classroom course generating a stream of content that others can use. In higher education we often have very skilled people taking classes and creating content that actually could help the world in some way, but it just gets put in the recycling bin. Even if chances are slim that one particular assignment will change the world, collectively we can design assignments that add up to a body of knowledge that others can draw on. I don't understand why we don't have a more efficient knowledge-sharing system there.
 
-{{< quote "...how we leverage the work our students are doing to create usable and useful content for the world is a huge frontier for higher education..." " " >}}
+{{< quote "…how we leverage the work our students are doing to create usable and useful content for the world is a huge frontier for higher education…" "&nbsp;" >}}
 
-If you look at the [list of projects]({{< baseurl >}}/pages/team-projects) covered in _15.232_, and add that to the 70 projects in _GlobalHealth Lab_, there is a huge depth of content. I feel very strongly that thinking about how we leverage the work our students are doing to create usable and useful content for the world is a huge frontier for higher education, especially in professional education.
+If you look at the {{% resource_link f2b0327e-f44d-38d8-da37-1fd506456195 "list of projects" %}} covered in _15.232_, and add that to the 70 projects in _GlobalHealth Lab_, there is a huge depth of content. I feel very strongly that thinking about how we leverage the work our students are doing to create usable and useful content for the world is a huge frontier for higher education, especially in professional education.
 
 There has been a lot of interest in that dummy deck because it lays out the basics for how you should describe a business model. I'm realizing that doesn't really exist anywhere, so that's a very sought-after thing. People who have start-ups or who are entering a chosen field of work have no guide for answering these questions that are inherent in developing a viable approach.
 
 So we use the dummy deck to analyze organizations from the outside. But you could flip it and turn it into a planning or analysis tool, for somebody who's trying to figure out how to invest. I've talked to investors, entrepreneurs, and I've had a lot of requests from the outside on those fronts, which is interesting. There's some structure in there that I'd really like to build on, and I think could be useful to many.
 
-Collaborating and Making Connections
-------------------------------------
+## Collaborating and Making Connections
 
 Now I'm an advisor to Wonder Work, and we're working with organizations that Wonder Work is funding. In _GlobalHealth Lab_, our projects are enabling the partner organization to benefit from funding, which is a huge impact. Our direct advice not only may help the doctors, staff and patients, but it paves the way for third parties to give more, which is a huge multiplier effect.
 
