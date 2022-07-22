@@ -6,6 +6,7 @@ file: /courses/15-232-business-model-innovation-global-health-in-frontier-market
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Team Projects
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: '15.232 Fall 2013 Malaria: Vector Borne Illness Impeding Growth and Devel
 uid: f7cac7fb-76c9-0c39-cefc-b3d1c0a297ed
 ---
 This file contains the information regarding malaria: vector borne illness Impeding growth and development of countries and populations at risk
-

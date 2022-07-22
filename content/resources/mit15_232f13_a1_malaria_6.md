@@ -6,6 +6,7 @@ file: /courses/15-232-business-model-innovation-global-health-in-frontier-market
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Team Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '15.232 Fall 2013 Malaria: Invest in the Future, Defeat Malaria'
 uid: 9ca2cabd-004d-390f-12c4-164569ac0bd2
 ---
 This file contains the information regarding malaria: invest in the future, defeat malaria.
-

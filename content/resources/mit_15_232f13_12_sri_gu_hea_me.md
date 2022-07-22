@@ -6,6 +6,7 @@ file: /courses/15-232-business-model-innovation-global-health-in-frontier-market
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Srishti Gupta and Heather Megosh biographies
 uid: eac1bf85-d82c-d850-3964-1b51f78abb82
 ---
 This resource contains information regarding Srishti Gupta and Heather Megosh biographies.
-

@@ -6,6 +6,7 @@ file: /courses/15-232-business-model-innovation-global-health-in-frontier-market
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Team Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '15.232 Fall 2013 HealthBuilders: Team Presentation Deck'
 uid: 5f75938b-1b25-a7de-25a0-82a3e49a9905
 ---
 This file contains the information regarding health builders: team presentation deck.
-

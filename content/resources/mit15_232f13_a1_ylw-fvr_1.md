@@ -6,6 +6,7 @@ file: /courses/15-232-business-model-innovation-global-health-in-frontier-market
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Team Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 15.232 Fall 2013 Yellow Fever and its impact on Global Health
 uid: 10e562c9-859f-f27e-07cf-d98193f8e990
 ---
 This file contains the information regarding yellow fever and its impact on global health.
-

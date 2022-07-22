@@ -5,6 +5,7 @@ file: /courses/15-232-business-model-innovation-global-health-in-frontier-market
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: York Zucchi biography
 uid: 61ee76a7-754c-ee20-cdae-307d6640f559
 ---
 This resource contains information regarding York Zucchi biography.
-

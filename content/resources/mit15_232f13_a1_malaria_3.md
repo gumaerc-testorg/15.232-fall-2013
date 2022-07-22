@@ -5,6 +5,7 @@ file: /courses/15-232-business-model-innovation-global-health-in-frontier-market
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Team Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '15.232 Fall 2013 Malaria: Management Briefing'
 uid: 796d791a-b945-7813-b66a-1c01b2671ce9
 ---
 This file contains the information regarding malaria: management briefing.
-

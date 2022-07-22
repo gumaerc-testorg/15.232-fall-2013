@@ -5,6 +5,7 @@ file: /courses/15-232-business-model-innovation-global-health-in-frontier-market
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Class 9: Sustainability and scale'
 uid: e28a6d72-29b3-6d49-d9c4-e2356b9323a0
 ---
 This resource contains information regarding sustainability and scale.
-

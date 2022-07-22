@@ -6,6 +6,7 @@ file: /courses/15-232-business-model-innovation-global-health-in-frontier-market
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Team Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '15.232 Fall 2013 ADDO: Team Presentation Deck'
 uid: 5288bff9-1db3-68fe-8570-a7e1bfa22c3b
 ---
 This file contains the information regarding ADDO: team presentation deck.
-

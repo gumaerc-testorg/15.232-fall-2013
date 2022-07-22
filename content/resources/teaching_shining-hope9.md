@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Rows of benches in a waiting room of a community clinic, women and children
     sit and watch television.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Teaching Systems Thinking and Value Chains
 parent_type: CourseSection

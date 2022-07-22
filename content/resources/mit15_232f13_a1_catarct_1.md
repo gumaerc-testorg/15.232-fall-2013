@@ -6,6 +6,7 @@ file: /courses/15-232-business-model-innovation-global-health-in-frontier-market
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Team Projects
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 15.232 Fall 2013 Congenital Cataracts leading to moderate or severe visua
 uid: 646d74d7-e91d-319a-f7d2-2c9a11a03cc1
 ---
 This file contains the information regarding congenital cataracts leading to moderate or severe visual impairments.
-

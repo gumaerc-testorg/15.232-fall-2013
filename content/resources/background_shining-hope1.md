@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Steps lead up to the entrance of a community health clinic in Kibera,
     a corrugated metal building painted bright blue.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Background and Inspiration for the Class
 parent_type: CourseSection

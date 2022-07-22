@@ -6,6 +6,7 @@ file: /courses/15-232-business-model-innovation-global-health-in-frontier-market
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Class 3: Operational efficiency and scaling up'
 uid: f676b474-847e-f7a3-cdbf-2e3e3aaa0bf3
 ---
 This resource contains information regarding operational efficiency and scaling up.
-
