@@ -1,12 +1,15 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 5b0c885f-3fac-fee9-cfd6-aca753d845eb
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _15.232 Business Model Innovation: Global Health in Frontier Markets_ as it was taught by Professor Anjali Sastry in Fall 2013.
 
@@ -14,8 +17,7 @@ Entrepreneurs and leaders all over the world are pioneering novel business model
 
 This course explored success and failure in innovative healthcare delivery via cases, projects, and discussions with thought leaders. Drawing on strategy, marketing, operations, systems thinking along with other MBA tools and lenses, students learned to apply business thinking about scale, sustainability, and quality to one of the world’s most pressing problems: getting healthcare to the people who most need it.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
@@ -23,25 +25,23 @@ Students learn what works, what doesn’t, and why, in ambitious startups and le
 
 ### Possibilities for Further Study/Careers
 
-Some students go on to participate in [_15.S07 GlobalHealth Lab_](/courses/15-s07-globalhealth-lab-spring-2013/) (now known as _15.233_), independent studies or theses to continue projects started in _15.232_, and some even start new enterprises or change career paths to incorporate opportunities they have learned about in global health.
+Some students go on to participate in [_15.S07 GlobalHealth Lab_](/courses/15-s07-globalhealth-lab-spring-2013) (now known as _15.233_), independent studies or theses to continue projects started in _15.232_, and some even start new enterprises or change career paths to incorporate opportunities they have learned about in global health.
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Interview
 
 {{< quote "I wanted to look at organizations that have figured out what works where that may be unexpected." "—Dr. Anjali Sastry" >}}
 
-In the following pages, Dr. Sastry describes various aspects of how she teaches _15.232 Business Model Innovation: Global Health in Frontier Markets_.
+_In the following pages, Dr. Sastry describes various aspects of how she teaches_ 15.232 Business Model Innovation: Global Health in Frontier Markets.
 
-*   [Background and Inspiration for the Class]({{< baseurl >}}/pages/instructor-insights/background-and-inspiration-for-the-class)
-*   [Teaching Systems Thinking and Value Chains]({{< baseurl >}}/pages/instructor-insights/teaching-students-about-systems-thinking-and-value-chains)
-*   [Case Studies and Problem-based Learning]({{< baseurl >}}/pages/instructor-insights/case-studies-and-problem-based-learning)
-*   [Structuring Assignments and Setting Expectations]({{< baseurl >}}/pages/instructor-insights/structuring-assignments-and-setting-expectations)
-*   [Impact]({{< baseurl >}}/pages/instructor-insights/impact)
+- {{% resource_link e6e427dc-aca8-8e23-0c62-3f20a1589c66 "Background and Inspiration for the Class" %}}
+- {{% resource_link 3296b023-4342-68b4-2cad-c8eab5a26f9f "Teaching Systems Thinking and Value Chains" %}}
+- {{% resource_link c8bbcf10-8403-0014-56fc-627f44af763b "Case Studies and Problem-based Learning" %}}
+- {{% resource_link 781d7232-9c8d-c266-6f39-a27702a0b1f7 "Structuring Assignments and Setting Expectations" %}}
+- {{% resource_link 771d2998-6349-db27-afe7-73ca9183a26e "Impact" %}}
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -55,24 +55,9 @@ Graduate elective
 
 First half of every fall semester
 
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![View of the classroom toward the chalkboards in the front.]({{< resource_file e420b24e-0445-2d22-ae9d-2fcc91595525 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    Tiered seating, sliding chalkboards, LCD video and overhead projectors, multiple screens.
-    
-
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 The students' grades were based on the following activities:
 
@@ -80,10 +65,11 @@ The students' grades were based on the following activities:
 - 25% Class participation
 - 60% Mini-case portfolio
 
-Student Information
--------------------
+## Student Information
 
-![On average, 40 students take this course each time it is offered.]({{< resource_file 4b2503ff-d230-66d5-9b1e-b80d5109ced5 >}})
+### Enrollment
+
+40 students
 
 ### Breakdown by Year
 
@@ -99,20 +85,17 @@ Students who took the course have worked at the IFC, Israeli Defense Force, Micr
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 6 hours on the course, roughly divided as follows:
 
-In Class
---------
+### In Class
 
-*   Met 2 times per week for 90 minutes per session; 12 sessions total; mandatory attendance.
-*   Activities also included case studies, discussions with thought leaders, and the in-class presentation of projects.
+- Met 2 times per week for 90 minutes per session; 12 sessions total; mandatory attendance.
+- Activities also included case studies, discussions with thought leaders, and the in-class presentation of projects.
 
-Out of Class
-------------
+### Out of Class
 
-*   [Readings]({{< baseurl >}}/pages/readings) in preparation for class
-*   Team meetings
-*   [Assignments]({{< baseurl >}}/pages/assignments) and [team deliverables]({{< baseurl >}}/pages/assignments/mini-case-portfolio)
+- {{% resource_link 23872b06-c554-0fea-3a9f-f1a4d06c9209 "Readings" %}} in preparation for class
+- Team meetings
+- {{% resource_link 9f398e8a-2392-43d7-ea09-4c39d16fd3c2 "Assignments" %}} and {{% resource_link e53d3d56-ab3c-0bd5-9819-a1795522c836 "team deliverables" %}}

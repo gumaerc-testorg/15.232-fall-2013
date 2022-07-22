@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the lecture notes from the course along with the
+  schedule of lecture topics, case discussions, and class activities.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: c1497bcd-a2f0-d686-0f61-27a7bceffff7
 ---
@@ -40,7 +45,7 @@ Challenges in reaching scale and why we focus on business models
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 1: Scale and business models (PDF - 3.5MB)]({{< baseurl >}}/resources/mit15_232f13_class1)
+{{% resource_link c4692ac8-ae95-7e2f-9b70-c0028ed707bd "Class 1: Scale and business models (PDF - 3.5MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +65,7 @@ In-class call with CEO York Zucchi
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 2: Cooperative approaches (PDF)]({{< baseurl >}}/resources/mit15_232f13_class2)
+{{% resource_link 2039e1e3-769f-9f9d-275f-0d57465cee8b "Class 2: Cooperative approaches (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +83,7 @@ Case discussion: Riders for Health
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 3: Operational efficiency and scaling up (PDF - 1.7MB)]({{< baseurl >}}/resources/mit15_232f13_class3)
+{{% resource_link f676b474-847e-f7a3-cdbf-2e3e3aaa0bf3 "Class 3: Operational efficiency and scaling up (PDF - 1.7MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +101,7 @@ Case discussion: Avahan India AIDS Initiative
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 4: Business thinking (PDF - 1.3MB)]({{< baseurl >}}/resources/mit15_232f13_class4)
+{{% resource_link 5ff68066-dd86-efd4-4749-85875dc1999f "Class 4: Business thinking (PDF - 1.3MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -116,9 +121,9 @@ Workshop on strategy: Work in your teams to apply a strategy framework to the or
 {{< tdopen >}}
 
 
-[Class 5: Strategy (PDF)]({{< baseurl >}}/resources/mit15_232f13_class5)
+{{% resource_link b67fdb49-f078-8227-0d3e-76bc6dd79c06 "Class 5: Strategy (PDF)" %}}
 
-[Blank care delivery value chain (PPT)]({{< baseurl >}}/resources/15_232f13_5_blank_ca_de_va), [(PDF)]({{< baseurl >}}/resources/mit_15_232f13_5_blank_ca_d)
+{{% resource_link 43285169-2fae-e984-5adb-e6e86ad26181 "Blank care delivery value chain (PPT)" %}}, {{% resource_link e4559231-e1d2-c710-c097-97be002c5219 "(PDF)" %}}
 
 
 {{< tdclose >}}
@@ -138,7 +143,7 @@ Case discussion: SMS for Life
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 6: Public-private collaboration (PDF)]({{< baseurl >}}/resources/mit15_232f13_class6)
+{{% resource_link c5e093a1-d780-d181-0ee5-4408bf44ea4d "Class 6: Public-private collaboration (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -162,7 +167,7 @@ Case discussion: Aravind Eye Clinic and the application of strategy to the enter
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 7: Systems thinking (PDF - 1.5MB)]({{< baseurl >}}/resources/mit15_232f13_class7)
+{{% resource_link 7909f0e0-5b6b-476a-44ff-3be887f1142a "Class 7: Systems thinking (PDF - 1.5MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -180,7 +185,7 @@ Case discussion: Living Goods and the promise of business-format franchise model
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 8: Franchise models (PDF - 1.4MB)]({{< baseurl >}}/resources/mit15_232f13_class8)
+{{% resource_link 4e39fdc2-65dc-3a0e-0452-1e205f0b24c4 "Class 8: Franchise models (PDF - 1.4MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -198,7 +203,7 @@ Case discussion: Narayana Hrudayalaya
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 9: Sustainability and scale (PDF)]({{< baseurl >}}/resources/mit15_232f13_class9)
+{{% resource_link e28a6d72-29b3-6d49-d9c4-e2356b9323a0 "Class 9: Sustainability and scale (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

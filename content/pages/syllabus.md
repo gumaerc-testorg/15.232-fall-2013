@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description, a course overview,
+  and information on meeting times, prerequisites, course design, requirements and
+  grading, and course communications.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: edb1fe0f-4cfc-b2f5-59b6-2afca748678e
 ---
@@ -91,7 +96,7 @@ Mini case portfolio
 
 **Mini Case Portfolio: Organizational Analysis, Presentation, Executive Summary, and Team Learning Memo:** Self-selected teams will be assigned a global health organization or program with a compelling model or mission. Each student group will analyze the organization's model and potential for impact, scale, and sustainability from financial, operational, strategic, and marketing perspectives, linking to themes from class discussions.
 
-The [mini case portfolio]({{< baseurl >}}/pages/assignments/mini-case-portfolio) consists of a team memo on value measures, value chain, and value proposition; a presentation deck; a two-page executive summary; integrated sources and bibliography; and a team learning memo. Your team will [present a subset of your slides in class]({{< baseurl >}}/pages/assignments/group-project-presentations) to your classmates and our invited guests. Each team is also required to schedule a a check-in meeting with the course team to seek feedback on their draft presentation and executive summary.
+The {{% resource_link e53d3d56-ab3c-0bd5-9819-a1795522c836 "mini case portfolio" %}} consists of a team memo on value measures, value chain, and value proposition; a presentation deck; a two-page executive summary; integrated sources and bibliography; and a team learning memo. Your team will {{% resource_link 3b4ca32b-96a6-bb2a-3c9b-97075fe806ef "present a subset of your slides in class" %}} to your classmates and our invited guests. Each team is also required to schedule a a check-in meeting with the course team to seek feedback on their draft presentation and executive summary.
 
 Course Communications
 ---------------------

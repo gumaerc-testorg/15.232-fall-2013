@@ -1,6 +1,13 @@
 ---
 content_type: page
+description: This section lists the requirements for the individual managerial briefing
+  assignment, key starting points for research, and examples of student work from
+  Fall 2013.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 9f398e8a-2392-43d7-ea09-4c39d16fd3c2
 title: Individual Managerial Briefing
 uid: 9adde567-4a08-9351-827b-c51d0bf52b22
@@ -47,7 +54,7 @@ Create a stand-alone word document to upload. Your briefing should include:
 *   What inputs are most needed to prevent, treat, or manage this disease or condition? Identify key requirements for a patient’s care, mentioning needed services, knowledge, medication, and supplies that are essential for reducing the negative impacts of this disease or condition.
 *   To wrap up, highlight what you’ve gleaned about timing, costs, and complexity of care delivery.
 
-_List your sources_: consult the **![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[ASA style sheet (PDF)](http://www.asanet.org/documents/teaching/pdfs/Quick_Tips_for_ASA_Style.pdf)** for formatting advice. Make sure to include urls that work (click on each to check, once you’ve pasted into your document).
+_List your sources_: consult the **[ASA style sheet (PDF)](http://www.asanet.org/documents/teaching/pdfs/Quick_Tips_for_ASA_Style.pdf)** for formatting advice. Make sure to include urls that work (click on each to check, once you’ve pasted into your document).
 
 Limit your entire document (excluding references) to _two pages_. Single-spaced text and narrow margins are fine.
 
@@ -95,7 +102,7 @@ Maternal and neonatal health
 {{< tdopen >}}
 
 
-[Opportunities to Improve Maternal and Neonatal Health Care (PDF)]({{< baseurl >}}/resources/mit15_232f13_a1_maternal_4)
+{{% resource_link 2187a00e-1943-3eb9-6fab-7158515c1147 "Opportunities to Improve Maternal and Neonatal Health Care (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -108,9 +115,9 @@ HIV/AIDS
 {{< tdopen >}}
 
 
-[HIV/AIDS: A Global Health Perspective (PDF)]({{< baseurl >}}/resources/mit15_232f13_a1_hiv-aids_2)
+{{% resource_link 8ac561f5-42d1-418d-c8b8-16526af5520d "HIV/AIDS: A Global Health Perspective (PDF)" %}}
 
-[HIV/AIDS: Managerial Briefing (PDF)]({{< baseurl >}}/resources/mit15_232f13_a1_hiv-aids_3)
+{{% resource_link 3cae347c-ba27-616b-f8cc-d047e55ce811 "HIV/AIDS: Managerial Briefing (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -123,15 +130,15 @@ Tuberculosis
 {{< tdopen >}}
 
 
-[Tuberculosis: Managerial Briefing (PDF)]({{< baseurl >}}/resources/mit15_232f13_a1_tb_01)
+{{% resource_link d709bba6-d021-9850-3056-8449f0ef6ad6 "Tuberculosis: Managerial Briefing (PDF)" %}}
 
-[Tuberculosis: Biology, Burden, & Unmet Needs (PDF)]({{< baseurl >}}/resources/mit15_232f13_a1_tb_02)
+{{% resource_link 10f9ac52-07c8-8227-ee7c-8f334b346798 "Tuberculosis: Biology, Burden, & Unmet Needs (PDF)" %}}
 
-[Tuberculosis: Disease Overview (PDF)]({{< baseurl >}}/resources/mit15_232f13_a1_tb_03)
+{{% resource_link 78095c6c-0ecc-1347-1fbc-18520d8114b5 "Tuberculosis: Disease Overview (PDF)" %}}
 
-[Tuberculosis: Overview (PDF)]({{< baseurl >}}/resources/mit15_232f13_a1_tb_05)
+{{% resource_link 705c375a-5ce1-8f63-7a64-fda96da9c86e "Tuberculosis: Overview (PDF)" %}}
 
-[Tuberculosis: Global Health Needs (PDF)]({{< baseurl >}}/resources/mit15_232f13_a1_tb_09)
+{{% resource_link 51c1b34d-9c73-6ab2-b0d5-7e396d5837f9 "Tuberculosis: Global Health Needs (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -144,9 +151,9 @@ Another disease or condition
 {{< tdopen >}}
 
 
-[Atrial Fibrillation: A major global public health challenge (PDF)]({{< baseurl >}}/resources/mit15_232f13_a1_af_1)
+{{% resource_link 1597166f-cf91-75ee-04f6-51cd9bcfa539 "Atrial Fibrillation: A major global public health challenge (PDF)" %}}
 
-[Viral Hepatitis: The Silent Epidemic (PDF)]({{< baseurl >}}/resources/mit15_232f13_a1_vrl-hep_1)
+{{% resource_link a82bfdb9-4bc1-c81f-aa1f-303a1217f3f9 "Viral Hepatitis: The Silent Epidemic (PDF)" %}}
 
 
 {{< tdclose >}}
