@@ -54,26 +54,26 @@ Create a stand-alone word document to upload. Your briefing should include:
 *   What inputs are most needed to prevent, treat, or manage this disease or condition? Identify key requirements for a patient’s care, mentioning needed services, knowledge, medication, and supplies that are essential for reducing the negative impacts of this disease or condition.
 *   To wrap up, highlight what you’ve gleaned about timing, costs, and complexity of care delivery.
 
-_List your sources_: consult the **[ASA style sheet (PDF)](http://www.asanet.org/documents/teaching/pdfs/Quick_Tips_for_ASA_Style.pdf)** for formatting advice. Make sure to include urls that work (click on each to check, once you’ve pasted into your document).
+_List your sources_: consult the **{{% resource_link "f2faaa9e-c126-45b9-8ef2-4df29682f3bd" "ASA style sheet (PDF)" %}}** for formatting advice. Make sure to include urls that work (click on each to check, once you’ve pasted into your document).
 
 Limit your entire document (excluding references) to _two pages_. Single-spaced text and narrow margins are fine.
 
 Key Starting Points for your Research
 -------------------------------------
 
-[The Disease Control Priorities Project](http://www.dcp2.org) is an ongoing effort to assess disease control priorities and produce evidence-based analysis and resource materials to inform health policymaking in developing countries.
+{{% resource_link "90de873d-be92-4cbb-b319-e88c15f80cf9" "The Disease Control Priorities Project" %}} is an ongoing effort to assess disease control priorities and produce evidence-based analysis and resource materials to inform health policymaking in developing countries.
 
 [The World Health Organization's Factsheets](http://www.who.int/mediacentre/factsheets/en/ ) collection provides overviews of dozens of diseases. The WHO offers many other resources, of course, which you may find by exploring the website.
 
-[BIO Ventures for Global Health](https://bvgh.org/) is a non-profit organization which aims to accelerate the development of novel drugs, vaccines, and diagnostics coming from the biotechnology industry that address the unmet medical needs of the developing world. Their Global Health Primer is designed to inform industry research and development to spur innovations that are desperately needed for neglected tropical diseases.
+{{% resource_link "0f0eb78c-12ce-4c47-a9e5-c558e68e352d" "BIO Ventures for Global Health" %}} is a non-profit organization which aims to accelerate the development of novel drugs, vaccines, and diagnostics coming from the biotechnology industry that address the unmet medical needs of the developing world. Their Global Health Primer is designed to inform industry research and development to spur innovations that are desperately needed for neglected tropical diseases.
 
 [Kaiser Family Foundation's US Global Health Policy portal](http://globalhealth.kff.org/ ) offers the latest data and information on the US role in global health along with useful background information and overviews.
 
 [The United States Department of Health and Human Services' Office of Global Affairs](http://www.globalhealth.gov/ ) promotes the health and well-being of Americans and of the world's population by advancing global strategies and partnerships and working with US agencies in the coordination of global health policy. Look for links to non-communicable diseases including HIV/AIDS, malaria, and tuberculosis, as well as maternal and child health.
 
-[The United Nations' starting point on global health](http://www.un.org/en/sections/issues-depth/health/index.html) provides a good introductory overview.
+{{% resource_link "89cda887-967c-4240-a9b2-3fe44420b1ab" "The United Nations' starting point on global health" %}} provides a good introductory overview.
 
-[The United States Centers for Disease Control](http://www.cdc.gov/globalhealth/ ) works with international organizations in more than 60 countries on a variety of focus areas; look for information on focal diseases and medical conditions via their [programs and topics page](http://www.cdc.gov/globalhealth/programs/). 
+[The United States Centers for Disease Control](http://www.cdc.gov/globalhealth/ ) works with international organizations in more than 60 countries on a variety of focus areas; look for information on focal diseases and medical conditions via their {{% resource_link "1044ace9-823e-4fd0-b1c2-16cdaf018a45" "programs and topics page" %}}. 
 
 [The SciDev.Net website](http://www.scidev.net/global/health/ ) is a good source for news related to science and development. Use the "Health" dropdown to research the latest news on specific disease areas.
 

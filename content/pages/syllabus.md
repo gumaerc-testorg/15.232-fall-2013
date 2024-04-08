@@ -101,6 +101,6 @@ The {{% resource_link e53d3d56-ab3c-0bd5-9819-a1795522c836 "mini case portfolio"
 Course Communications
 ---------------------
 
-To build a dialog about global health delivery and management, we'll be referring and contributing to [the class blog](http://groundwork.mit.edu/tag/business-models/). Check the blog every week and add your comments. Students who must miss class will post thoughtful comments there. Some of our in-class discussions generate great blog posts, so do follow and join the dialog.
+To build a dialog about global health delivery and management, we'll be referring and contributing to {{% resource_link "287df6e5-7493-4800-aa9c-1bc4f0dc9b3f" "the class blog" %}}. Check the blog every week and add your comments. Students who must miss class will post thoughtful comments there. Some of our in-class discussions generate great blog posts, so do follow and join the dialog.
 
 We designed this course to make the most of our shared resources for this class for future students at MIT and elsewhere. Please contribute to our growing body of knowledge: send in links, make comments, share ideas and resources. _Business Model Innovation: Global Health in Frontier Markets_ examines issues at the intersection of entrepreneurship, management, economic development, and healthcare—a nexus of innovation where new ideas, practices, and models are constantly emerging. Join us in exploring this new frontier!
