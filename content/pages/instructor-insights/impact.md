@@ -13,11 +13,11 @@ uid: 771d2998-6349-db27-afe7-73ca9183a26e
 ---
 {{< resource 5e97872f-59ce-d603-18bb-27882b970ca1 >}}
 
-Smile Train's cleft lip and palate teaching camp in Rajsthan Seva Sadan Hospital. (Photo courtesy of [Sadasiv Swain](https://www.flickr.com/photos/sswain_1999/9516878236) via Flickr. License: CC-BY.)
+Smile Train's cleft lip and palate teaching camp in Rajsthan Seva Sadan Hospital. (Photo courtesy of {{% resource_link "f2f86a92-1f91-4229-aff3-4915df52f9d6" "Sadasiv Swain" %}} via Flickr. License: CC-BY.)
 
 ## Predicting Outcomes
 
-In 2010, one of the organizations we looked at from the outside was Smile Train, which does cleft pallet surgery and cleft lip surgery and repair. [The students made a prediction](http://globalhealth.mit.edu/smiletrain/) based on their analysis that Smile Train would run out of clefts to repair, and they were correct.
+In 2010, one of the organizations we looked at from the outside was Smile Train, which does cleft pallet surgery and cleft lip surgery and repair. {{% resource_link "facba10a-ac33-4e5e-893b-f94b6f37dd01" "The students made a prediction" %}} based on their analysis that Smile Train would run out of clefts to repair, and they were correct.
 
 So the CEO of Smile Train, Brian Mulaney, saw the analysis and contacted me. He said, you're right – we did run out. I'm switching my strategy. Then he came to our class the following year, and gave a DILS talk in the fall. So we built a relationship. He is now the CEO of Wonder Work, and has brought in projects to _GlobalHealth Lab_. He attended the finale of _15.232_.
 
