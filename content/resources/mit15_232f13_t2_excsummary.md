@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the information regarding colaLife- team executive
   summary.
 file: /courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/9d2339c1c01d483e61f34143a6cc4c71_MIT15_232F13_t2_excsummary.pdf
+file_size: 845989
 file_type: application/pdf
 learning_resource_types:
 - Projects

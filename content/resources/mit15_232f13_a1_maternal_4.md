@@ -3,6 +3,7 @@ content_type: resource
 description: 'This is a resource file that contains information regarding opportunities
   to improve maternal and neonatal health care: assignment 1.'
 file: /courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/2187a00e19433eb96fab7158515c1147_MIT15_232F13_a1_maternal_4.pdf
+file_size: 952241
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

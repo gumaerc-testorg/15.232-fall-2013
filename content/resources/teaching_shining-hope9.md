@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/6aaa15248f102bdb89c0957257c11879_teaching_shining-hope9.jpg
+file_size: 107736
 file_type: image/jpeg
 image_metadata:
   caption: ''
