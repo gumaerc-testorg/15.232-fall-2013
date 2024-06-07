@@ -3,6 +3,7 @@ content_type: resource
 description: 'This file contains the information regarding HIV/AIDS: managerial briefing
   on global health needs.'
 file: /courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/09cf8b8a919d48dc1dda6df9acdc311c_MIT15_232F13_a1_hiv-aids_1.pdf
+file_size: 884895
 file_type: application/pdf
 learning_resource_types:
 - Projects

@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This file contains the information regarding LifeNet: team memo.'
 file: /courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/53a3228c71972baa7fc7533738b7e242_MIT15_232F13_LifeNet_memo.pdf
+file_size: 790062
 file_type: application/pdf
 learning_resource_types:
 - Projects

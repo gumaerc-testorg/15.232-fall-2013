@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the information regarding sughaVazhvu- team executive
   summary.
 file: /courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/9f9b3ea2b888783d3edf4c26d873de77_MIT15_232F13_t5_excsummary.pdf
+file_size: 366295
 file_type: application/pdf
 learning_resource_types:
 - Projects

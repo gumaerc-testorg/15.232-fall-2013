@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/e420b24e04452d22ae9d2fcc91595525_15-232_classroom-1.jpg
+file_size: 49364
 file_type: image/jpeg
 image_metadata:
   caption: ''
