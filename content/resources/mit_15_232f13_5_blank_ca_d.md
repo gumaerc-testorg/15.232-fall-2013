@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/e4559231e1d2c710c09797be002c5219_MIT_15_232F13_5_blank_ca_d.pdf
+file_size: 611865
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

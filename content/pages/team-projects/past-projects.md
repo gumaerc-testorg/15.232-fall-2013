@@ -13,7 +13,7 @@ title: Past Projects
 uid: d7e16a8d-46bf-7030-1a15-da34a60e5743
 ---
 
-The following table lists prior projects in the class, and where possible links to information and student deliverables posted on Dr. Sastry's {{% resource_link "7369b776-12d9-4f53-a64a-049abc662fa1" "Groundwork Initiative for Global Health at MIT Sloan" %}} website.
+The following table lists prior projects in the class, and where possible links to information and student deliverables posted on Dr. Sastry's [Groundwork Initiative for Global Health at MIT Sloan](http://groundwork.mit.edu/) website.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -48,7 +48,7 @@ India
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-{{% resource_link "4b63ac9b-debd-4438-bd34-9a159a51afb1" "Heart Institute of the Caribbean" %}}
+[Heart Institute of the Caribbean](http://groundwork.mit.edu/business-models-global-health-heart-institute-caribbean/)
 {{< tdclose >}}
 {{< tdopen >}}
 Jamaica
@@ -93,7 +93,7 @@ US-/UK-based, global
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-{{% resource_link "8c48f974-9827-47aa-b2fc-a2d02fbb580c" "Living Goods" %}}
+[Living Goods](http://groundwork.mit.edu/business-models-global-health-livinggoods/)
 {{< tdclose >}}
 {{< tdopen >}}
 Uganda
@@ -129,7 +129,7 @@ India
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-{{% resource_link "ea85c22e-5204-406b-8bd5-bd8c6ed8a11c" "Mi Farmacita Nacional" %}}
+[Mi Farmacita Nacional](http://groundwork.mit.edu/business-models-global-health-mi-farmacita-nacional/)
 {{< tdclose >}}
 {{< tdopen >}}
 Mexico
@@ -138,7 +138,7 @@ Mexico
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-{{% resource_link "9db4ca2d-7c67-451e-89ce-8032687899f9" "Nyaya Health" %}}
+[Nyaya Health](http://groundwork.mit.edu/business-models-global-health-nyaya-health/)
 {{< tdclose >}}
 {{< tdopen >}}
 Nepal
@@ -183,7 +183,7 @@ Kenya
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-{{% resource_link "ee182192-0c9f-4b63-b5d9-a4042305b972" "Smile Train" %}}
+[Smile Train](http://groundwork.mit.edu/business-models-global-health-smiletrain/)
 {{< tdclose >}}
 {{< tdopen >}}
 India and elsewhere
@@ -192,7 +192,7 @@ India and elsewhere
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-{{% resource_link "cb39bcdb-53f9-4ae2-a53f-249922231eeb" "Sproxil" %}}
+[Sproxil](http://groundwork.mit.edu/business-models-global-health-sproxil/)
 {{< tdclose >}}
 {{< tdopen >}}
 Nigeria
@@ -210,7 +210,7 @@ India
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-{{% resource_link "b2a6817d-4305-4f39-85be-663522aca428" "Village Health Works" %}}
+[Village Health Works](http://groundwork.mit.edu/business-models-global-health-village-health-works/)
 {{< tdclose >}}
 {{< tdopen >}}
 Burundi
@@ -219,7 +219,7 @@ Burundi
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-{{% resource_link "1b7f5f21-99c6-432d-bf81-cef40d9197a9" "VisionSpring" %}}
+[VisionSpring](http://groundwork.mit.edu/visionspring-vision-entrepreneurs/)
 {{< tdclose >}}
 {{< tdopen >}}
 US-based, global
