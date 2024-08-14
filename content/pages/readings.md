@@ -9,7 +9,7 @@ ocw_type: CourseSection
 title: Readings
 uid: 23872b06-c554-0fea-3a9f-f1a4d06c9209
 ---
-The videos listed below along with additional related videos are collected in [Dr. Sastry's YouTube playlist: Business Models for Scale & Sustainability in Global Health](http://www.youtube.com/playlist?list=PL545006C5F5385831).
+The videos listed below along with additional related videos are collected in {{% resource_link "e0a5e374-a8bc-4df1-b8f1-f060f691b6f6" "Dr. Sastry's YouTube playlist: Business Models for Scale & Sustainability in Global Health" %}}.
 
 Please read the optional materials if your background knowledge in this domain needs to be shored up.
 
@@ -35,23 +35,23 @@ Prepare to discuss CFW Shops and the challenges of reaching scale. Watch the vid
 
 ### Required Video
 
-"Health Care Franchise." Week of May 25, 2007. PBS NOW. Accessed January 8, 2014. [http://www.pbs.org/now/shows/321](http://www.pbs.org/now/shows/321)     
+"Health Care Franchise." Week of May 25, 2007. PBS NOW. Accessed January 8, 2014. {{% resource_link "f708f328-0cc1-4745-8c44-a70d5565ea69" "http://www.pbs.org/now/shows/321" %}}     
 You may skip the first two minutes: the content starts at 2:04 and ends at 26:48. Click through on the links for more information. This video first aired in May 2007, but the ideas remain relevant.
 
 ### Required Readings
 
-Kim, Peter, and Jeffrey Bradach. "[Why More Nonprofits Are Getting Bigger](http://www.ssireview.org/articles/entry/why_more_nonprofits_are_getting_bigger)." *Stanford Social Innovation Review*, Spring 2012.     
+Kim, Peter, and Jeffrey Bradach. "{{% resource_link "1979a4f5-a186-4b4d-850f-4cde09b20694" "Why More Nonprofits Are Getting Bigger" %}}." *Stanford Social Innovation Review*, Spring 2012.     
 A recent study found that the number of U.S. nonprofits with annual revenues of more than $50 million has increased dramatically.
 
-Rottenburg, Linda, and Rhett Morris. "[If You Want to Scale Impact, Put Financial Results First](http://blogs.hbr.org/2013/01/new-research-if-you-want-to-sc/)." *Harvard Business Review*, January 9, 2013. *Harvard Business Review* (blog).     
+Rottenburg, Linda, and Rhett Morris. "{{% resource_link "4dfab6e2-452e-4991-b24d-b6c752211470" "If You Want to Scale Impact, Put Financial Results First" %}}." *Harvard Business Review*, January 9, 2013. *Harvard Business Review* (blog).     
 Endeavor CEO Linda Rottenberg's & director of Endeavor Insight, Rhett Morris' inaugural article for HBR-Bridgespan Insight Center on Scaling Social Impact, which is a partnership between the Harvard Business Review and The Bridgespan Group, supported by the Omidyar Network that shares stories, insights, and lessons from the most innovative voices in the field.
 
 ### Optional Readings
 
-Magretta, Joan. "[Why Business Models Matter](http://hbr.org/2002/05/why-business-models-matter/ar/1)." *Harvard Business Review*, May 2002.     
+Magretta, Joan. "{{% resource_link "8ed849ab-feb5-47ad-9f0e-abe856189aae" "Why Business Models Matter" %}}." *Harvard Business Review*, May 2002.     
 For MBA/Management background students from HBR 2002, good intro on business models.
 
-Bradach, Jeffrey. "[Going to Scale: The Challenge of Replicating Social Programs](http://www.ssireview.org/articles/entry/going_to_scale/)." *Stanford Social Innovation Review*, Spring 2003, 19–25.
+Bradach, Jeffrey. "{{% resource_link "ec1450d9-9713-4ee6-a275-155cf2b6d870" "Going to Scale: The Challenge of Replicating Social Programs" %}}." *Stanford Social Innovation Review*, Spring 2003, 19–25.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -69,13 +69,13 @@ Prepare Hello Healthcare case.
 
 ### Case
 
-Wocke, Albert. "[Hello Healthcare: Taking a Cooperative Business into Africa](https://www.iveycases.com/ProductView.aspx?id=59175)." Ivey Publishing. Case No. 9B13M076, August 7, 2013.
+Wocke, Albert. "{{% resource_link "b0d39469-6cb1-4f2c-ace7-e5e611082c92" "Hello Healthcare: Taking a Cooperative Business into Africa" %}}." Ivey Publishing. Case No. 9B13M076, August 7, 2013.
 
 ### Required Readings
 
-Guest, Peter. "[Spelling Out Growth](http://online.wsj.com/news/articles/SB10001424053111904716604576544482314677402)." *The Wall Street Journal*, 2011.
+Guest, Peter. "{{% resource_link "fd1ec563-e445-40a6-b211-5d182f3d1bf0" "Spelling Out Growth" %}}." *The Wall Street Journal*, 2011.
 
-Johnson, Mark W., Clayton M. Christensen, et al. "[Reinventing Your Business Model](http://hbr.org/2008/12/reinventing-your-business-model/ar/1)." *Harvard Business Review*, December 1, 2008.
+Johnson, Mark W., Clayton M. Christensen, et al. "{{% resource_link "39b88884-d6c9-4043-98b9-15885e851f2c" "Reinventing Your Business Model" %}}." *Harvard Business Review*, December 1, 2008.
 
 {{% resource_link "61ee76a7-754c-ee20-cdae-307d6640f559" "York Zucchi biography (PDF)" %}}
 
@@ -93,21 +93,21 @@ Prepare case, reading, and video; individual assignment due today.
 
 ### Case
 
-Lee, Hau, and Brian Tayan. "[Riders for Health. Health Care Distribution Solutions in Sub-Saharan Africa](https://www.gsb.stanford.edu/faculty-research/case-studies/riders-health-health-care-distribution-solutions-sub-saharan-africa)." Harvard Business Publishing. Case No. GS58.
+Lee, Hau, and Brian Tayan. "{{% resource_link "977f1db9-5542-4b66-849a-dc8380de4528" "Riders for Health. Health Care Distribution Solutions in Sub-Saharan Africa" %}}." Harvard Business Publishing. Case No. GS58.
 
 ### Required Readings
 
-Yadav, Prashant, Orla Stapleton, et al. "[Learning from Coca-Cola](http://www.ssireview.org/articles/entry/learning_from_coca_cola)." *Stanford Social Innovation Review*, Winter 2013.
+Yadav, Prashant, Orla Stapleton, et al. "{{% resource_link "a48098a2-eff5-4461-8aee-35aa56cf2087" "Learning from Coca-Cola" %}}." *Stanford Social Innovation Review*, Winter 2013.
 
 ### Required Video
 
-RidersForHealthTV. "Uncommon Heroes – Riders for Health." March 25, 2011. YouTube. Accessed January 10, 2014. [http://www.youtube.com/user/RidersForHealthTV?v=KM80QCaVtr0&lr=1](http://www.youtube.com/user/RidersForHealthTV?v=KM80QCaVtr0&lr=1)
+RidersForHealthTV. "Uncommon Heroes – Riders for Health." March 25, 2011. YouTube. Accessed January 10, 2014. {{% resource_link "acb56f89-08f7-4e91-a158-03f20f833a3c" "http://www.youtube.com/user/RidersForHealthTV?v=KM80QCaVtr0&lr=1" %}}
 
 ### Optional Videos
 
-RidersForHealthTV. "The Health Show: Sample Transport." September 12, 2011. YouTube. Accessed January 10, 2014. [https://www.youtube.com/watch?v=-fOZ9wZJv1Y](https://www.youtube.com/watch?v=-fOZ9wZJv1Y)
+RidersForHealthTV. "The Health Show: Sample Transport." September 12, 2011. YouTube. Accessed January 10, 2014. {{% resource_link "2c4b6d8b-6cd2-490c-80f5-c4ab3a6cfe50" "https://www.youtube.com/watch?v=-fOZ9wZJv1Y" %}}
 
-———. "Alvin's Good Guide to Business - Riders for Health." April 27, 2011. YouTube. Accessed January 10, 2014. [https://www.youtube.com/watch?v=6qnCH5oAPcA](https://www.youtube.com/watch?v=6qnCH5oAPcA)
+———. "Alvin's Good Guide to Business - Riders for Health." April 27, 2011. YouTube. Accessed January 10, 2014. {{% resource_link "50a35bdc-9d49-4fc8-8d6e-c076343a6624" "https://www.youtube.com/watch?v=6qnCH5oAPcA" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -123,17 +123,17 @@ Prepare to discuss the case and readings in class.
 
 ### Case
 
-Cole, Claire. "[The Avahan India AIDS Initiative: Managing Targeted HIV Prevention at Scale](https://www.globalhealthdelivery.org/case-collection/case-studies/asia-and-middle-east/the-avahan-india-aids-initiative-managing-targeted)." Global Health Delivery Project\_.\_ Case No. GHD-020.
+Cole, Claire. "{{% resource_link "130d294a-cab6-4482-a3b9-7d0e22b8053f" "The Avahan India AIDS Initiative: Managing Targeted HIV Prevention at Scale" %}}." Global Health Delivery Project\_.\_ Case No. GHD-020.
 
 ### Required Readings
 
-Kim, Jim Yong, Paul Farmer, et al. "[Redefining Global Health-Care Delivery](http://dx.doi.org/10.1016/S0140-6736(13)61047-8)." *The Lancet 382*, no. 9897 (2013): 1060–9.
+Kim, Jim Yong, Paul Farmer, et al. "{{% resource_link "f84b35cb-e9de-40db-a7df-37a5e5bf2d79" "Redefining Global Health-Care Delivery" %}}." *The Lancet 382*, no. 9897 (2013): 1060–9.
 
 ### Optional Readings
 
-Sgaier, Sema K, et al. "[How the Avahan HIV Prevention Program Transitioned from the Gates Foundation to the Government of India](https://www.healthaffairs.org/doi/10.1377/hlthaff.2012.0646)." *Health Affairs 32*, no. 7 (2013): 1265–73.
+Sgaier, Sema K, et al. "{{% resource_link "0068653f-22af-4c16-900e-023ff4498886" "How the Avahan HIV Prevention Program Transitioned from the Gates Foundation to the Government of India" %}}." *Health Affairs 32*, no. 7 (2013): 1265–73.
 
-Rhatigan, et al. ["Applying the Care Delivery Value Chain: HIV/AIDS Care in Resource Poor Settings." (PDF)](http://www.hbs.edu/faculty/Publication%20Files/09-093.pdf) HBS Working Paper no. 09–093, 2009.
+Rhatigan, et al. {{% resource_link "d3b25e7f-55b8-4f19-842d-031af9d4a8e6" "\"Applying the Care Delivery Value Chain: HIV/AIDS Care in Resource Poor Settings.\" (PDF)" %}} HBS Working Paper no. 09–093, 2009.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Part Two: Philanthropy and Partnerships**
@@ -147,13 +147,13 @@ Prepare readings.
 
 ### Required Reading
 
-Porter, M. E. ["What is Value in Health Care?" (PDF)](http://www.nejm.org/doi/pdf/10.1056/NEJMp1011024) *New England Journal of Medicine* 363 (2010): 2477–81.
+Porter, M. E. {{% resource_link "c940373c-048d-4e88-b046-55afa49ce9fa" "\"What is Value in Health Care?\" (PDF)" %}} *New England Journal of Medicine* 363 (2010): 2477–81.
 
 ### Optional Readings
 
-[Supplementary Appendix 1 (PDF)](http://www.nejm.org/doi/suppl/10.1056/NEJMp1011024/suppl_file/nejmp1011024_appendix1.pdf)
+{{% resource_link "f4535a2b-ce05-4c7b-98f5-6fd0010b00bb" "Supplementary Appendix 1 (PDF)" %}}
 
-[Supplementary Appendix 2 (PDF)](http://www.nejm.org/doi/suppl/10.1056/NEJMp1011024/suppl_file/nejmp1011024_appendix2.pdf) to Porter, M. E. "[What is Value in Health Care?](http://www.nejm.org/doi/full/10.1056/NEJMp1011024)" *New England Journal of Medicine* 363 (2010): 2477–81.
+{{% resource_link "4c6fc873-7af6-4f16-b84f-f709b4169486" "Supplementary Appendix 2 (PDF)" %}} to Porter, M. E. "{{% resource_link "7e35839a-42ad-4437-8a3c-81071fa69861" "What is Value in Health Care?" %}}" *New England Journal of Medicine* 363 (2010): 2477–81.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -167,21 +167,21 @@ Case discussion: SMS for Life
 
 ### Case
 
-Moncef, Anna, and Donald A. Marchand. ["SMS for Life (A): A Public-private Collaboration to Prevent Stock-outs of Life-saving Malaria Drugs in Africa." (PDF)](http://malaria.novartis.com/downloads/case-studies/imd-sms-for-life-a.pdf) IMD-3–2168, 2012.
+Moncef, Anna, and Donald A. Marchand. {{% resource_link "e1d5ea3f-5536-44af-94b4-c2d67c1195bc" "\"SMS for Life (A): A Public-private Collaboration to Prevent Stock-outs of Life-saving Malaria Drugs in Africa.\" (PDF)" %}} IMD-3–2168, 2012.
 
-Kania, John, and Mark Kramer. "[Collective Impact](http://www.ssireview.org/articles/entry/collective_impact)." *Stanford Social Innovation Review*, Winter 2011.
+Kania, John, and Mark Kramer. "{{% resource_link "ac7200ca-4402-4623-aac1-f9d7ed221b28" "Collective Impact" %}}." *Stanford Social Innovation Review*, Winter 2011.
 
 ### Required Reading
 
-Gupta, Anil K. "[Tapping the Entrepreneurial Potential of Grassroots Innovation](http://www.ssireview.org/articles/entry/tapping_the_entrepreneurial_potential_of_grassroots_innovation)." *Supplement to Stanford Social Innovation Review*, Summer 2013.
+Gupta, Anil K. "{{% resource_link "158db5b6-108f-49e6-a3a1-7ab4104c130b" "Tapping the Entrepreneurial Potential of Grassroots Innovation" %}}." *Supplement to Stanford Social Innovation Review*, Summer 2013.
 
 ### Optional Readings
 
-Hanleybrown, Fay, John Kania, et al. ["Channeling Change: Making Collective Impact Work." (PDF)](http://www.ssireview.org/pdf/Channeling_Change_PDF.pdf) *Stanford Social Innovation Review*, January 2012.
+Hanleybrown, Fay, John Kania, et al. {{% resource_link "165c5ab8-8284-4027-935a-56fdc46b9f5a" "\"Channeling Change: Making Collective Impact Work.\" (PDF)" %}} *Stanford Social Innovation Review*, January 2012.
 
-Sekhri, Neelam, Richard Feachem, et al. "[Public-Private Integrated Partnerships Demonstrate the Potential to Improve Health Care Access, Quality, and Efficiency](http://dx.doi.org/10.1377/hlthaff.2010.0461)." *Health Affairs* 30, no. 8 (2011): 1498–1507.
+Sekhri, Neelam, Richard Feachem, et al. "{{% resource_link "06dccb85-83dd-4cf7-a3e6-98c3e5ddc98a" "Public-Private Integrated Partnerships Demonstrate the Potential to Improve Health Care Access, Quality, and Efficiency" %}}." *Health Affairs* 30, no. 8 (2011): 1498–1507.
 
-Jakobsen, Palle H., Ming-Wei Wang, et al. "[Innovative Partnerships for Drug Discovery against Neglected Diseases](http://dx.doi.org/10.1371/journal.pntd.0001221)." *Public Library of Science Neglected Tropical Diseases* 5, no. 9 (2011): e1221.
+Jakobsen, Palle H., Ming-Wei Wang, et al. "{{% resource_link "00d98252-eff1-4e98-ab26-50f81998e459" "Innovative Partnerships for Drug Discovery against Neglected Diseases" %}}." *Public Library of Science Neglected Tropical Diseases* 5, no. 9 (2011): e1221.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Part Three: Promising Business Models**
@@ -199,11 +199,11 @@ Prepare to discuss the following in class, treating the materials as a case. All
 
 ### Required Video
 
-Thulasiraj Ravilla. "How Low-cost Eye Care can be World-class." TED Talk. Filmed November 2009, posted December 2009. Accessed January 14, 2014. [https://www.ted.com/talks/thulasiraj_ravilla_how_low_cost_eye_care_can_be_world_class](https://www.ted.com/talks/thulasiraj_ravilla_how_low_cost_eye_care_can_be_world_class)
+Thulasiraj Ravilla. "How Low-cost Eye Care can be World-class." TED Talk. Filmed November 2009, posted December 2009. Accessed January 14, 2014. {{% resource_link "7afcf405-13c2-4b96-8c78-3979b531a981" "https://www.ted.com/talks/thulasiraj_ravilla_how_low_cost_eye_care_can_be_world_class" %}}
 
 ### Required Reading
 
-Rangan, V. Kasturi, and R. D. Thulasiraj. "[The Aravind Eye Care System: Making Sight Affordable](http://dx.doi.org/10.1162/itgg.2007.2.4.35)." *Innovations: Technology, Governance, Globalization* 2, no. 4 (2007): 35–52.
+Rangan, V. Kasturi, and R. D. Thulasiraj. "{{% resource_link "8893c5c3-f474-48bb-adb9-54aae7f1d854" "The Aravind Eye Care System: Making Sight Affordable" %}}." *Innovations: Technology, Governance, Globalization* 2, no. 4 (2007): 35–52.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -223,27 +223,27 @@ Gupta, Vivek, and Indu Perepu. "Living Goods – Developing a Sustainable Busine
 
 ### Required Readings
 
-Beck, Steve, Wouter Deedler, et al. ["Franchising in Frontier Markets."](http://dx.doi.org/10.1162/itgg.2010.5.1.153) *Innovations: Technology, Governance, Globalization 5*, no. 14 (2010): 153–62.     
+Beck, Steve, Wouter Deedler, et al. {{% resource_link "acc8609b-2cb2-4d1e-95f2-47618cb6d5e6" "\"Franchising in Frontier Markets.\"" %}} *Innovations: Technology, Governance, Globalization 5*, no. 14 (2010): 153–62.     
 What's working, what's not, and why.
 
-"[BRAC in Business](http://www.economist.com/node/15546464)." February 18, 2010. *The Economist*. From the print edition.
+"{{% resource_link "c2129377-9059-4a3e-987a-6e3eb459d41f" "BRAC in Business" %}}." February 18, 2010. *The Economist*. From the print edition.
 
-Smillie, Ian. "[Learning, Development, and Money: Lessons from Bangladesh](http://thephilanthropist.ca/index.php/phil/article/view/798)." *The Philanthropist* 22, no. 2 (2009): 82–8.
+Smillie, Ian. "{{% resource_link "597c8060-d163-469d-b5fd-199771f99bc5" "Learning, Development, and Money: Lessons from Bangladesh" %}}." *The Philanthropist* 22, no. 2 (2009): 82–8.
 
 ### Optional Readings
 
 Section 3 Downstream distributors and Section 4 Franchising:
 
-Pindyk, Robert S. ["Lecture Notes on Vertical Structure." (PDF - 5.3MB)](http://web.mit.edu/rpindyck/www/Courses/VS_11.pdf) August 2011, pp. 21–5.
+Pindyk, Robert S. {{% resource_link "0435830b-722a-4eb0-b4d9-949be77eb092" "\"Lecture Notes on Vertical Structure.\" (PDF - 5.3MB)" %}} August 2011, pp. 21–5.
 
-Bishai, David M., et al. ["Social Franchising to Improve Quality and Access in Private Health Care in Developing Countries." (PDF - 5.2MB)](https://pdfs.semanticscholar.org/1a4b/03b90450c87d278930f10e0f653b2b9e50b4.pdf?_ga=2.252226506.2143769902.1565032614-672817412.1563980296) *Harvard Health Policy Review* 9, no. 1 (2008): 184–97.
+Bishai, David M., et al. {{% resource_link "77f958c2-c5e3-4b1f-9646-4c1cccfb298d" "\"Social Franchising to Improve Quality and Access in Private Health Care in Developing Countries.\" (PDF - 5.2MB)" %}} *Harvard Health Policy Review* 9, no. 1 (2008): 184–97.
 
-Spainhower, Kirsten. "[BRAC: A Laboratory for Systemic Solutions](http://dx.doi.org/10.1596/1020-797X_12_1_44)." *Development Outreach* 12, no. 1 (2010): 44–55.
+Spainhower, Kirsten. "{{% resource_link "e6fc5230-5215-421f-8093-a376a32e64ec" "BRAC: A Laboratory for Systemic Solutions" %}}." *Development Outreach* 12, no. 1 (2010): 44–55.
 
 Huffington Post BRAC article     
-Chowdhury, Mushtaque. "[Saving Lives and Livelihoods: Resilience in the Context of Health](http://www.huffingtonpost.com/mushtaque-chowdhury/saving-lives-and-liveliho_b_2554179.html)." *Huffington Post Impact*.
+Chowdhury, Mushtaque. "{{% resource_link "68fd9aac-1796-41d7-a25e-22bbf26ba49f" "Saving Lives and Livelihoods: Resilience in the Context of Health" %}}." *Huffington Post Impact*.
 
-TropIKA.net team. "[Chowdhury Champions Constant Learning, Evaluation and Innovation in Research](http://tatumanderson.typepad.com/tatum_anderson/2010/11/chowdhury-champions-constant-learning-evaluation-and-innovation-in-research.html)." October 13, 2010. *TropIKA.net* (blog).
+TropIKA.net team. "{{% resource_link "fa18555d-1470-4c2b-8b37-7300bd418b07" "Chowdhury Champions Constant Learning, Evaluation and Innovation in Research" %}}." October 13, 2010. *TropIKA.net* (blog).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -259,11 +259,11 @@ Prepare Case and Reading.
 
 ### Case
 
-Khanna, Tarun, and V. Kastguri Rangan. "[Narayana Hrudayalaya Heart Hospital: Cardiac Care for the Poor (A)](http://hbr.org/product/Narayana-Hrudayalaya-Hear/an/505078-PDF-ENG)." Harvard Business School, Case # 50578-PDF-ENG.
+Khanna, Tarun, and V. Kastguri Rangan. "{{% resource_link "9660985a-63b3-45bb-a8ca-c7cabd8e7448" "Narayana Hrudayalaya Heart Hospital: Cardiac Care for the Poor (A)" %}}." Harvard Business School, Case # 50578-PDF-ENG.
 
 ### Required Reading
 
-Prahalad, C. K., and R. A. Mashelkar. "[Innovation's Holy Grail](http://hbr.org/2010/07/innovations-holy-grail/ar/1)." *Harvard Business Review*, July 1, 2010.
+Prahalad, C. K., and R. A. Mashelkar. "{{% resource_link "84b6de78-f0a3-42e3-9962-99b1719ef432" "Innovation's Holy Grail" %}}." *Harvard Business Review*, July 1, 2010.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Part Four: New Ideas and Challenging Tradeoffs in Scale, Sustainability, and Impact**
@@ -283,9 +283,9 @@ Read and carefully consider the following along with the executive summaries pro
 
 ### Required Readings
 
-Milway, Katie Smith, and Amy Saxton. "[The Challenge of Organizational Learning](http://www.ssireview.org/articles/entry/the_challenge_of_organizational_learning)." *Stanford Social Innovation Review*, Summer 2011.
+Milway, Katie Smith, and Amy Saxton. "{{% resource_link "49c3a334-2adc-45b7-acc1-abe2dc06aa93" "The Challenge of Organizational Learning" %}}." *Stanford Social Innovation Review*, Summer 2011.
 
-Seelos, Christian, and Johanna Mail. "[Innovate and Scale: A Tough Balancing Act](http://www.ssireview.org/articles/entry/innovate_and_scale_a_tough_balancing_act)." *Supplement to Stanford Social Innovation Review*, Summer 2013.
+Seelos, Christian, and Johanna Mail. "{{% resource_link "672c15c9-9e6d-4191-8639-06a8db529229" "Innovate and Scale: A Tough Balancing Act" %}}." *Supplement to Stanford Social Innovation Review*, Summer 2013.
 
 {{% resource_link "c929bc87-aca6-4ea1-5e8b-18caa15423cf" "Rebecca Weintraub biography (PDF)" %}}
 
@@ -307,7 +307,7 @@ Read and carefully consider the following along with the executive summaries pro
 
 Govindrajan, Vijay, and Chris Trimble. "Partners in Health's Radical Model for Care: Adapting Emerging-Market Healthcare Innovations to Rich-World Populations." Harvard Business Press Chapters. April 10, 2012. Prod. # 9211BC-PDF-ENG.
 
-Onie, Rebecca, Paul Farmer, et al. "[Realigning Health with Care](http://www.ssireview.org/articles/entry/realigning_health_with_care)." *Stanford Social Innovation Review*, Summer 2012.
+Onie, Rebecca, Paul Farmer, et al. "{{% resource_link "575f95d7-425d-49b1-bbd6-46135a55d032" "Realigning Health with Care" %}}." *Stanford Social Innovation Review*, Summer 2012.
 
 {{% resource_link "f58da516-31ff-a92b-7dda-bbbb979ae8dc" "Tricia Morente biography (PDF)" %}}
 
@@ -315,7 +315,7 @@ Onie, Rebecca, Paul Farmer, et al. "[Realigning Health with Care](http://www.ssi
 
 ### Optional Readings
 
-DePasse, Jacqueline W., and Patrick T. Lee. "[A Model for 'Reverse Innovation' in Health Care](http://dx.doi.org/10.1186/1744-8603-9-40)." *Globalization and Health* 9, no. 40 (2013).
+DePasse, Jacqueline W., and Patrick T. Lee. "{{% resource_link "e0ab0284-be02-4d93-bf15-3044e014f448" "A Model for 'Reverse Innovation' in Health Care" %}}." *Globalization and Health* 9, no. 40 (2013).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
