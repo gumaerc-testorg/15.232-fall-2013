@@ -50,27 +50,27 @@ Create a stand-alone word document to upload. Your briefing should include:
 - What inputs are most needed to prevent, treat, or manage this disease or condition? Identify key requirements for a patient’s care, mentioning needed services, knowledge, medication, and supplies that are essential for reducing the negative impacts of this disease or condition.
 - To wrap up, highlight what you’ve gleaned about timing, costs, and complexity of care delivery.
 
-*List your sources*: consult the [**ASA style sheet (PDF)**](http://www.asanet.org/documents/teaching/pdfs/Quick_Tips_for_ASA_Style.pdf) for formatting advice. Make sure to include urls that work (click on each to check, once you’ve pasted into your document).
+*List your sources*: consult the {{% resource_link "f015f342-7f1f-4b38-9d1e-2af4a04fd1aa" "**ASA style sheet (PDF)**" %}} for formatting advice. Make sure to include urls that work (click on each to check, once you’ve pasted into your document).
 
 Limit your entire document (excluding references) to *two pages*. Single-spaced text and narrow margins are fine.
 
 ## Key Starting Points for your Research
 
-[The Disease Control Priorities Project](http://www.dcp2.org) is an ongoing effort to assess disease control priorities and produce evidence-based analysis and resource materials to inform health policymaking in developing countries.
+{{% resource_link "d385acfa-c65f-4397-8eee-d6814279f63b" "The Disease Control Priorities Project" %}} is an ongoing effort to assess disease control priorities and produce evidence-based analysis and resource materials to inform health policymaking in developing countries.
 
-[The World Health Organization's Factsheets](http://www.who.int/mediacentre/factsheets/en/) collection provides overviews of dozens of diseases. The WHO offers many other resources, of course, which you may find by exploring the website.
+{{% resource_link "0d8bed2a-811e-48fb-b5ae-cf89ece3cbde" "The World Health Organization's Factsheets" %}} collection provides overviews of dozens of diseases. The WHO offers many other resources, of course, which you may find by exploring the website.
 
-[BIO Ventures for Global Health](https://bvgh.org/) is a non-profit organization which aims to accelerate the development of novel drugs, vaccines, and diagnostics coming from the biotechnology industry that address the unmet medical needs of the developing world. Their Global Health Primer is designed to inform industry research and development to spur innovations that are desperately needed for neglected tropical diseases.
+{{% resource_link "d79a59ba-d844-4ea1-a7fb-89dacf9694ac" "BIO Ventures for Global Health" %}} is a non-profit organization which aims to accelerate the development of novel drugs, vaccines, and diagnostics coming from the biotechnology industry that address the unmet medical needs of the developing world. Their Global Health Primer is designed to inform industry research and development to spur innovations that are desperately needed for neglected tropical diseases.
 
-[Kaiser Family Foundation's US Global Health Policy portal](https://www.kff.org/global-health-policy/) offers the latest data and information on the US role in global health along with useful background information and overviews.
+{{% resource_link "240a5947-fa4b-49f7-91ec-80c809394238" "Kaiser Family Foundation's US Global Health Policy portal" %}} offers the latest data and information on the US role in global health along with useful background information and overviews.
 
-[The United States Department of Health and Human Services' Office of Global Affairs](http://www.globalhealth.gov/) promotes the health and well-being of Americans and of the world's population by advancing global strategies and partnerships and working with US agencies in the coordination of global health policy. Look for links to non-communicable diseases including HIV/AIDS, malaria, and tuberculosis, as well as maternal and child health.
+{{% resource_link "cfab5b3f-d833-4093-bddb-ef099d972609" "The United States Department of Health and Human Services' Office of Global Affairs" %}} promotes the health and well-being of Americans and of the world's population by advancing global strategies and partnerships and working with US agencies in the coordination of global health policy. Look for links to non-communicable diseases including HIV/AIDS, malaria, and tuberculosis, as well as maternal and child health.
 
-[The United Nations' starting point on global health](https://www.un.org/en/global-issues/health) provides a good introductory overview.
+{{% resource_link "f7a9e6af-7b1a-4351-9fcc-4d97ea933d39" "The United Nations' starting point on global health" %}} provides a good introductory overview.
 
-[The United States Centers for Disease Control](http://www.cdc.gov/globalhealth/) works with international organizations in more than 60 countries on a variety of focus areas; look for information on focal diseases and medical conditions via their [programs and topics page](http://www.cdc.gov/globalhealth/programs/). 
+{{% resource_link "468a0a72-93dc-4d1b-9865-0e53f1af16db" "The United States Centers for Disease Control" %}} works with international organizations in more than 60 countries on a variety of focus areas; look for information on focal diseases and medical conditions via their {{% resource_link "9ea3907e-6bec-4e0e-a582-62d73d49c6e8" "programs and topics page" %}}. 
 
-[The SciDev.Net website](http://www.scidev.net/global/health/) is a good source for news related to science and development. Use the "Health" dropdown to research the latest news on specific disease areas.
+{{% resource_link "477e26cf-4bd6-4b6b-816d-4e184041cc3d" "The SciDev.Net website" %}} is a good source for news related to science and development. Use the "Health" dropdown to research the latest news on specific disease areas.
 
 ## Student Examples: Fall 2013
 
