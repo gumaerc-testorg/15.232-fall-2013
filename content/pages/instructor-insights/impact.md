@@ -14,7 +14,7 @@ uid: 771d2998-6349-db27-afe7-73ca9183a26e
 ---
 {{< resource uuid="5e97872f-59ce-d603-18bb-27882b970ca1" >}}
 
-Smile Train's cleft lip and palate teaching camp in Rajsthan Seva Sadan Hospital. (Photo courtesy of [Sadasiv Swain](https://www.flickr.com/photos/sswain_1999/9516878236) via Flickr. License: CC-BY.)
+Smile Train's cleft lip and palate teaching camp in Rajsthan Seva Sadan Hospital. (Photo courtesy of {{% resource_link "555194c7-1a36-49b9-84f6-7fa0fabfefe4" "Sadasiv Swain" %}} via Flickr. License: CC-BY.)
 
 ## Predicting Outcomes
 
