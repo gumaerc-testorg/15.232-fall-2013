@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains the information regarding HIV/AIDS: managerial briefing.'
-file: /courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/3cae347cba27616bf8ccd047e55ce811_MIT15_232F13_a1_hiv-aids_3.pdf
+file: /ol-ocw-studio-app/courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/3cae347cba27616bf8ccd047e55ce811_MIT15_232F13_a1_hiv-aids_3.pdf
 file_size: 269437
 file_type: application/pdf
 learning_resource_types:
