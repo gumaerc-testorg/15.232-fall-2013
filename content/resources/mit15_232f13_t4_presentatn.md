@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains the information regarding health builders: team presentation
   deck.'
-file: /courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/5f75938b1b25a7de25a082a3e49a9905_MIT15_232F13_t4_presentatn.pdf
+file: /ol-ocw-studio-app/courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/5f75938b1b25a7de25a082a3e49a9905_MIT15_232F13_t4_presentatn.pdf
 file_size: 325346
 file_type: application/pdf
 learning_resource_types:

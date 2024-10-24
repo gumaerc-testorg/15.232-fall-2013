@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special ppt template file.
-file: /courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/432851692faee9845adbe6e86ad26181_15_232F13_5_blank_ca_de_va.pptx
+file: /ol-ocw-studio-app/courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/432851692faee9845adbe6e86ad26181_15_232F13_5_blank_ca_de_va.pptx
 file_size: 49693
 file_type: application/vnd.openxmlformats-officedocument.presentationml.presentation
 learning_resource_types:

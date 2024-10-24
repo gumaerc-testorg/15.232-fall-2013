@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a special dummy deck ppt template file.
-file: /courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/17f486b3edd7225ee17f0541c81d7bee_15_232F13_Dummy_Deck.pptx
+file: /ol-ocw-studio-app/courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/17f486b3edd7225ee17f0541c81d7bee_15_232F13_Dummy_Deck.pptx
 file_size: 101851
 file_type: application/vnd.openxmlformats-officedocument.presentationml.presentation
 learning_resource_types:
