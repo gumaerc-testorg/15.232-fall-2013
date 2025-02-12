@@ -35,23 +35,23 @@ Prepare to discuss CFW Shops and the challenges of reaching scale. Watch the vid
 
 ### Required Video
 
-"Health Care Franchise." Week of May 25, 2007. PBS NOW. Accessed January 8, 2014. {{% resource_link "f708f328-0cc1-4745-8c44-a70d5565ea69" "http://www.pbs.org/now/shows/321" %}}     
+"Health Care Franchise." Week of May 25, 2007. PBS NOW. Accessed January 8, 2014. {{% resource_link "f708f328-0cc1-4745-8c44-a70d5565ea69" "http://www.pbs.org/now/shows/321" %}}        
 You may skip the first two minutes: the content starts at 2:04 and ends at 26:48. Click through on the links for more information. This video first aired in May 2007, but the ideas remain relevant.
 
 ### Required Readings
 
-Kim, Peter, and Jeffrey Bradach. "{{% resource_link "1979a4f5-a186-4b4d-850f-4cde09b20694" "Why More Nonprofits Are Getting Bigger" %}}." *Stanford Social Innovation Review*, Spring 2012.     
+Kim, Peter, and Jeffrey Bradach. "[Why More Nonprofits Are Getting Bigger.](https://ssir.org/articles/entry/why_more_nonprofits_are_getting_bigger)" *Stanford Social Innovation Review*, Spring 2012.        
 A recent study found that the number of U.S. nonprofits with annual revenues of more than $50 million has increased dramatically.
 
-Rottenburg, Linda, and Rhett Morris. "{{% resource_link "4dfab6e2-452e-4991-b24d-b6c752211470" "If You Want to Scale Impact, Put Financial Results First" %}}." *Harvard Business Review*, January 9, 2013. *Harvard Business Review* (blog).     
+Rottenburg, Linda, and Rhett Morris. "{{% resource_link "4dfab6e2-452e-4991-b24d-b6c752211470" "If You Want to Scale Impact, Put Financial Results First" %}}." *Harvard Business Review*, January 9, 2013. *Harvard Business Review* (blog).        
 Endeavor CEO Linda Rottenberg's & director of Endeavor Insight, Rhett Morris' inaugural article for HBR-Bridgespan Insight Center on Scaling Social Impact, which is a partnership between the Harvard Business Review and The Bridgespan Group, supported by the Omidyar Network that shares stories, insights, and lessons from the most innovative voices in the field.
 
 ### Optional Readings
 
-Magretta, Joan. "{{% resource_link "8ed849ab-feb5-47ad-9f0e-abe856189aae" "Why Business Models Matter" %}}." *Harvard Business Review*, May 2002.     
+Magretta, Joan. "{{% resource_link "8ed849ab-feb5-47ad-9f0e-abe856189aae" "Why Business Models Matter" %}}." *Harvard Business Review*, May 2002.        
 For MBA/Management background students from HBR 2002, good intro on business models.
 
-Bradach, Jeffrey. "{{% resource_link "ec1450d9-9713-4ee6-a275-155cf2b6d870" "Going to Scale: The Challenge of Replicating Social Programs" %}}." *Stanford Social Innovation Review*, Spring 2003, 19–25.
+Bradach, Jeffrey. "[Going to Scale: The Challenge of Replicating Social Programs.](https://ssir.org/articles/entry/going_to_scale#)" *Stanford Social Innovation Review*, Spring 2003, 19–25.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -97,7 +97,7 @@ Lee, Hau, and Brian Tayan. "{{% resource_link "977f1db9-5542-4b66-849a-dc8380de4
 
 ### Required Readings
 
-Yadav, Prashant, Orla Stapleton, et al. "{{% resource_link "a48098a2-eff5-4461-8aee-35aa56cf2087" "Learning from Coca-Cola" %}}." *Stanford Social Innovation Review*, Winter 2013.
+Yadav, Prashant, Orla Stapleton, et al. "[Learning from Coca-Cola.](http://iaphl.org/wp-content/uploads/2016/05/SSIR-Winter_2013_Learning_From_Coca_Cola-1.pdf)" *Stanford Social Innovation Review*, Winter 2013.
 
 ### Required Video
 
@@ -169,11 +169,11 @@ Case discussion: SMS for Life
 
 Moncef, Anna, and Donald A. Marchand. {{% resource_link "e1d5ea3f-5536-44af-94b4-c2d67c1195bc" "\"SMS for Life (A): A Public-private Collaboration to Prevent Stock-outs of Life-saving Malaria Drugs in Africa.\" (PDF)" %}} IMD-3–2168, 2012.
 
-Kania, John, and Mark Kramer. "{{% resource_link "ac7200ca-4402-4623-aac1-f9d7ed221b28" "Collective Impact" %}}." *Stanford Social Innovation Review*, Winter 2011.
+Kania, John, and Mark Kramer. "[Collective Impact.](https://ssir.org/articles/entry/collective_impact)" *Stanford Social Innovation Review*, Winter 2011.
 
 ### Required Reading
 
-Gupta, Anil K. "{{% resource_link "158db5b6-108f-49e6-a3a1-7ab4104c130b" "Tapping the Entrepreneurial Potential of Grassroots Innovation" %}}." *Supplement to Stanford Social Innovation Review*, Summer 2013.
+Gupta, Anil K. "[Tapping the Entrepreneurial Potential of Grassroots Innovation.](https://ssir.org/articles/entry/tapping_the_entrepreneurial_potential_of_grassroots_innovation)" *Supplement to Stanford Social Innovation Review*, Summer 2013.
 
 ### Optional Readings
 
@@ -223,7 +223,7 @@ Gupta, Vivek, and Indu Perepu. "Living Goods – Developing a Sustainable Busine
 
 ### Required Readings
 
-Beck, Steve, Wouter Deedler, et al. {{% resource_link "acc8609b-2cb2-4d1e-95f2-47618cb6d5e6" "\"Franchising in Frontier Markets.\"" %}} *Innovations: Technology, Governance, Globalization 5*, no. 14 (2010): 153–62.     
+Beck, Steve, Wouter Deedler, et al. {{% resource_link "acc8609b-2cb2-4d1e-95f2-47618cb6d5e6" "\"Franchising in Frontier Markets.\"" %}} *Innovations: Technology, Governance, Globalization 5*, no. 14 (2010): 153–62.        
 What's working, what's not, and why.
 
 "{{% resource_link "c2129377-9059-4a3e-987a-6e3eb459d41f" "BRAC in Business" %}}." February 18, 2010. *The Economist*. From the print edition.
@@ -240,7 +240,7 @@ Bishai, David M., et al. {{% resource_link "77f958c2-c5e3-4b1f-9646-4c1cccfb298d
 
 Spainhower, Kirsten. "{{% resource_link "e6fc5230-5215-421f-8093-a376a32e64ec" "BRAC: A Laboratory for Systemic Solutions" %}}." *Development Outreach* 12, no. 1 (2010): 44–55.
 
-Huffington Post BRAC article     
+Huffington Post BRAC article        
 Chowdhury, Mushtaque. "{{% resource_link "68fd9aac-1796-41d7-a25e-22bbf26ba49f" "Saving Lives and Livelihoods: Resilience in the Context of Health" %}}." *Huffington Post Impact*.
 
 TropIKA.net team. "{{% resource_link "fa18555d-1470-4c2b-8b37-7300bd418b07" "Chowdhury Champions Constant Learning, Evaluation and Innovation in Research" %}}." October 13, 2010. *TropIKA.net* (blog).
@@ -283,9 +283,9 @@ Read and carefully consider the following along with the executive summaries pro
 
 ### Required Readings
 
-Milway, Katie Smith, and Amy Saxton. "{{% resource_link "49c3a334-2adc-45b7-acc1-abe2dc06aa93" "The Challenge of Organizational Learning" %}}." *Stanford Social Innovation Review*, Summer 2011.
+Milway, Katie Smith, and Amy Saxton. "[The Challenge of Organizational Learning.](https://ssir.org/articles/entry/the_challenge_of_organizational_learning)" *Stanford Social Innovation Review*, Summer 2011.
 
-Seelos, Christian, and Johanna Mail. "{{% resource_link "672c15c9-9e6d-4191-8639-06a8db529229" "Innovate and Scale: A Tough Balancing Act" %}}." *Supplement to Stanford Social Innovation Review*, Summer 2013.
+Seelos, Christian, and Johanna Mail. "[Innovate and Scale: A Tough Balancing Act.](https://ssir.org/articles/entry/innovate_and_scale_a_tough_balancing_act)" *Supplement to Stanford Social Innovation Review*, Summer 2013.
 
 {{% resource_link "c929bc87-aca6-4ea1-5e8b-18caa15423cf" "Rebecca Weintraub biography (PDF)" %}}
 
@@ -307,7 +307,7 @@ Read and carefully consider the following along with the executive summaries pro
 
 Govindrajan, Vijay, and Chris Trimble. "Partners in Health's Radical Model for Care: Adapting Emerging-Market Healthcare Innovations to Rich-World Populations." Harvard Business Press Chapters. April 10, 2012. Prod. # 9211BC-PDF-ENG.
 
-Onie, Rebecca, Paul Farmer, et al. "{{% resource_link "575f95d7-425d-49b1-bbd6-46135a55d032" "Realigning Health with Care" %}}." *Stanford Social Innovation Review*, Summer 2012.
+Onie, Rebecca, Paul Farmer, et al. "[Realigning Health with Care.](https://ssir.org/articles/entry/realigning_health_with_care#:~:text=Moving%20health%20resources%20from%20clinics,and%20quality%20of%20health%20care.)" *Stanford Social Innovation Review*, Summer 2012.
 
 {{% resource_link "f58da516-31ff-a92b-7dda-bbbb979ae8dc" "Tricia Morente biography (PDF)" %}}
 
