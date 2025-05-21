@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains the information regarding colaLife: team memo.'
-file: /ol-ocw-studio-app/courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/acfb82a1167818fedbc0996e55dcdc6f_MIT15_232F13_t2_memo.pdf
+file: /courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/acfb82a1167818fedbc0996e55dcdc6f_MIT15_232F13_t2_memo.pdf
 file_size: 755033
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/e37d1c74e25cbd61a9038ca091085c9f_background_shining-hope1.jpg
+file: /courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/e37d1c74e25cbd61a9038ca091085c9f_background_shining-hope1.jpg
 file_size: 112549
 file_type: image/jpeg
 image_metadata:

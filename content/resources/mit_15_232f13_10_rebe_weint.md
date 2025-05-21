@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding Rebecca Weintraub biography.
-file: /ol-ocw-studio-app/courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/c929bc87aca64ea15e8b18caa15423cf_MIT_15_232F13_10_Rebe_Weint.pdf
+file: /courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/c929bc87aca64ea15e8b18caa15423cf_MIT_15_232F13_10_Rebe_Weint.pdf
 file_size: 248270
 file_type: application/pdf
 learning_resource_types:

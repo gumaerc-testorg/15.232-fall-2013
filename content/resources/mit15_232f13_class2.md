@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding cooperative approaches.
-file: /ol-ocw-studio-app/courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/2039e1e3769f9f9d275f0d57465cee8b_MIT15_232F13_Class2.pdf
+file: /courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/2039e1e3769f9f9d275f0d57465cee8b_MIT15_232F13_Class2.pdf
 file_size: 983672
 file_type: application/pdf
 learning_resource_types:

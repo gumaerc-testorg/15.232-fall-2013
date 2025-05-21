@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains the information regarding dtree: team memo.'
-file: /ol-ocw-studio-app/courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/d139d8f6cae16636e703d5522f94da69_MIT15_232F13_t3_memo.pdf
+file: /courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/d139d8f6cae16636e703d5522f94da69_MIT15_232F13_t3_memo.pdf
 file_size: 158841
 file_type: application/pdf
 learning_resource_types:
