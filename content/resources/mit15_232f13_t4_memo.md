@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains the information regarding health builders: team memo.'
-file: /ol-ocw-studio-app/courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/696aec4cb506f9e286a057cc3ed1ef8d_MIT15_232F13_t4_memo.pdf
+file: /courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/696aec4cb506f9e286a057cc3ed1ef8d_MIT15_232F13_t4_memo.pdf
 file_size: 755753
 file_type: application/pdf
 learning_resource_types:

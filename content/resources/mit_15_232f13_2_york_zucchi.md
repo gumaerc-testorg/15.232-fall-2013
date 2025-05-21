@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding York Zucchi biography.
-file: /ol-ocw-studio-app/courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/61ee76a7754cee20cdae307d6640f559_MIT_15_232F13_2_York_Zucchi.pdf
+file: /courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/61ee76a7754cee20cdae307d6640f559_MIT_15_232F13_2_York_Zucchi.pdf
 file_size: 125996
 file_type: application/pdf
 learning_resource_types:
