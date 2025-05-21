@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information regarding ADDO- team memo.
-file: /ol-ocw-studio-app/courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/c4c4d16340dd55b01d8619ab1b6d170e_MIT15_232F13_t1_memo.pdf
+file: /courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/c4c4d16340dd55b01d8619ab1b6d170e_MIT15_232F13_t1_memo.pdf
 file_size: 124404
 file_type: application/pdf
 learning_resource_types:

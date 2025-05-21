@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding Ratan Tata biography.
-file: /ol-ocw-studio-app/courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/42fa61a6edef54a85303c14d78c653ba_MIT_15_232F13_11_Bio_Rat_N_Tat.pdf
+file: /courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/42fa61a6edef54a85303c14d78c653ba_MIT_15_232F13_11_Bio_Rat_N_Tat.pdf
 file_size: 71264
 file_type: application/pdf
 learning_resource_types:

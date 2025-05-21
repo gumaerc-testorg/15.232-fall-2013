@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding strategy.
-file: /ol-ocw-studio-app/courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/b67fdb49f07882270d3e76bc6dd79c06_MIT15_232F13_Class5.pdf
+file: /courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/b67fdb49f07882270d3e76bc6dd79c06_MIT15_232F13_Class5.pdf
 file_size: 1008155
 file_type: application/pdf
 learning_resource_types:
