@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information regarding sughaVazhvu- team memo.
-file: /courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/173b7c161a8b4c0d1ebbc6172891b1e1_MIT15_232F13_t5_memo.pdf
+file: /ol-ocw-studio-app/courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/173b7c161a8b4c0d1ebbc6172891b1e1_MIT15_232F13_t5_memo.pdf
 file_size: 137097
 file_type: application/pdf
 learning_resource_types:
