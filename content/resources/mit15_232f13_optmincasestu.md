@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regrading mini case study options.
-file: /courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/7ab9edf907f1752069b981643b1af999_MIT15_232F13_OptMinCaseStu.pdf
+file: /ol-ocw-studio-app/courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/7ab9edf907f1752069b981643b1af999_MIT15_232F13_OptMinCaseStu.pdf
 file_size: 343223
 file_type: application/pdf
 learning_resource_types: []

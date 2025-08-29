@@ -1,6 +1,6 @@
 ---
 content_type: external-resource
-external_url: http://www.dcp2.org
+external_url: https://www.dcp-3.org/
 has_external_license_warning: true
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
