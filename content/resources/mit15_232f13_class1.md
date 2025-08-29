@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding scale and business models.
-file: /courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/c4692ac8ae957e2f9b70c0028ed707bd_MIT15_232F13_Class1.pdf
+file: /ol-ocw-studio-app/courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/c4692ac8ae957e2f9b70c0028ed707bd_MIT15_232F13_Class1.pdf
 file_size: 3690649
 file_type: application/pdf
 learning_resource_types:

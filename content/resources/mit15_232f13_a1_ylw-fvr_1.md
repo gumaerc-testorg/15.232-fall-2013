@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information regarding yellow fever and its impact
   on global health.
-file: /courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/10e562c9859ff27e07cfd98193f8e990_MIT15_232F13_a1_ylw-fvr_1.pdf
+file: /ol-ocw-studio-app/courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/10e562c9859ff27e07cfd98193f8e990_MIT15_232F13_a1_ylw-fvr_1.pdf
 file_size: 573873
 file_type: application/pdf
 learning_resource_types:

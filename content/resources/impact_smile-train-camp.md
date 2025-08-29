@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/5e97872f59ced60318bb27882b970ca1_impact_smile-train-camp.jpg
+file: /ol-ocw-studio-app/courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/5e97872f59ced60318bb27882b970ca1_impact_smile-train-camp.jpg
 file_size: 106424
 file_type: image/jpeg
 image_metadata:
